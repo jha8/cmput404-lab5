@@ -1,0 +1,13 @@
+html, body {
+    margin: 1em;
+    border: 5px;
+    font-size: 100%;
+    background-color: #d9dab0;
+    color: #23689b;
+}
+header {
+    color: #487e95
+}
+a:hover {
+    color: #E33018;
+}
